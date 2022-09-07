@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: dilip1992/gradle2:jhooq-docker-demo
+          image: dilip1992/gradle4:jhooq-docker-demo
           ports:
             - containerPort: 8080
           env:
